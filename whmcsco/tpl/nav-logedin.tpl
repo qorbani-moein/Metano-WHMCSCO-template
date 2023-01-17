@@ -4,7 +4,7 @@
     </li>
 
     <li class="d-block dropdown no-collapse">
-        <a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">سرویس&zwnj;ها<b class="caret"></b></a>
+        <a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">خدمات<b class="caret"></b></a>
 
         <ul class="dropdown-menu">
             <li class="dropdown-item">

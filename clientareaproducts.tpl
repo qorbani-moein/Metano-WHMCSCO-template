@@ -19,7 +19,7 @@
 </script>
 
 <div class="table-container table-responsive clearfix">
-    <h5 class="text-primary">مدیریت سرویس </h5><p>تمام سرویس&zwnj;هایی که در خریداری نمودید در این بخش قابل مدیریت می&zwnj;باشند.</p>
+    <h5 class="text-primary">مدیریت خدمات </h5><p>تمام سرویس&zwnj;هایی که در خریداری نمودید در این بخش قابل مدیریت می&zwnj;باشند.</p>
     سرویس های فعال: <span class="text-success">{$clientsstats.productsnumactive}</span>
     <hr>
     <table id="tableServicesList" class="table table-list w-hidden">

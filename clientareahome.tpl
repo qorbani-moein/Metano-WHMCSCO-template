@@ -9,7 +9,7 @@
 				</a>
 				<div class="widget-box-item-content">
 					<a href="{$WEB_ROOT}/clientarea.php?action=services">
-						<h5>سرویس&zwnj;ها</h5>
+						<h5>خدمات</h5>
 					</a>
 					<div>
 						<span>{$clientsstats.productsnumactive}</span> فعال
