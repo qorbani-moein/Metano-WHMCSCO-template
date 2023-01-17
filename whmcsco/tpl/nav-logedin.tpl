@@ -3,7 +3,6 @@
         <a class="" href="{if $loggedin}{$WEB_ROOT}/clientarea{else}index{/if}.php"><i class="fa fa-home" aria-hidden="true"></i></a>
     </li>
 
-    <!--
     <li class="d-block dropdown no-collapse">
         <a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">خدمات<b class="caret"></b></a>
 
@@ -24,9 +23,9 @@
             </li>
         </ul>
     </li>
-    -->
-    
+
     {if $condlinks.domainreg || $condlinks.domaintrans}
+    <!--
     <li class="d-block dropdown no-collapse">
         <a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">دامنه&zwnj;ها<b class="caret"></b></a>
 
@@ -55,6 +54,7 @@
             
         </ul>
     </li>
+    -->
     {/if}
     
     <li class="d-block dropdown no-collapse">

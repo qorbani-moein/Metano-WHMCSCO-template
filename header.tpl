@@ -134,7 +134,7 @@
                 </ul>
 
                     <ul class="navbar-nav ml-auto">
-                        <a class="btn btn-sm btn-inline hidden-xs hidden-md" href="{$WEB_ROOT}/contact.php">تماس با ما</a>
+                        <a class="btn btn-sm btn-inline hidden-xs hidden-md" href="https://eightco.org/contact-us/">تماس با ما</a>
                         <a class="btn bg-color-blue btn-sm btn-inline" href="{$WEB_ROOT}/submitticket.php">ارسال تیکت</a>
 
                      </ul>
