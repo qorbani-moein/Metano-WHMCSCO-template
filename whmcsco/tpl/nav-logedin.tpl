@@ -3,6 +3,7 @@
         <a class="" href="{if $loggedin}{$WEB_ROOT}/clientarea{else}index{/if}.php"><i class="fa fa-home" aria-hidden="true"></i></a>
     </li>
 
+    <!--
     <li class="d-block dropdown no-collapse">
         <a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">خدمات<b class="caret"></b></a>
 
@@ -23,6 +24,7 @@
             </li>
         </ul>
     </li>
+    -->
     
     {if $condlinks.domainreg || $condlinks.domaintrans}
     <li class="d-block dropdown no-collapse">
@@ -97,12 +99,14 @@
         </ul>
     </li>
     
+    <!--
     <li class="d-block no-collapse">
         <a class="" href="{$WEB_ROOT}/announcements.php"> اخبار</a>
     </li>
+    -->
 
     <li class="d-block no-collapse">
-        <a class="" href="{$WEB_ROOT}/knowledgebase.php">{$LANG.knowledgebasetitle}</a>
+        <a class="" href="https://eightco.org/blog/">{$LANG.knowledgebasetitle}</a>
     </li>
     
     <li class="d-block no-collapse">
